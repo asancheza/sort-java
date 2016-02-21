@@ -10,7 +10,7 @@ Sorted algorithms in Java: Selection and Shell
 
 ```
 javac Sorts.java
-java Sorts.java
+java Sorts
 ```
 
 ## Project
